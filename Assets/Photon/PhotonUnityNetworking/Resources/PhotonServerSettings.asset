@@ -40,6 +40,25 @@ MonoBehaviour:
   - Fire
   - RespawnSpaceship
   - LoadGameScene
+  - AddHP
+  - ConfirmLoad
+  - DisableZombie
+  - EndGame
+  - PlayerReset
+  - PlayZombieAttackAudio
+  - PlayZombieHurtAudio
+  - PunPickupSimple
+  - SetInvincible
+  - SetTeam
+  - SetTime
+  - Shoot
+  - ShootEffect
+  - StartGame
+  - UpdateHP
+  - UpdateScores
+  - ZombieDead
+  - ZombieSetCrazy
+  - ZombieSetNormal
   DisableAutoOpenWizard: 1
   ShowSettings: 1
   DevRegionSetOnce: 1
